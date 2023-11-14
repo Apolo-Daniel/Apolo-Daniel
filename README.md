@@ -1,3 +1,3 @@
 - Olá, me chamo Apolo Daniel. Tenho 17 anos, atualmente estudo no 2º Ano do curso de Informática do IFRN campus Parnamirim.
 - Atualmente estou aprendendo JavaScript e TypeScript no IFRN e Python por conta própria
-- Colocarei alguns projetos pessoais meus aqui no GitHub.
+- Colocarei alguns projetos pessoais aqui no GitHub.
