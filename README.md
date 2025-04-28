@@ -1,3 +1,3 @@
-- Olá, me chamo Apolo Daniel. Tenho 18 anos, atualmente estudo no 3º Ano do curso de Informática do IFRN campus Parnamirim.
-- Tenho conhecimentos básicos em Python
+- Olá, me chamo Apolo Daniel. Tenho 18 anos, atualmente estudo no 3º Ano do curso de Informática do IFRN campus Parnamirim e estou no 1º período de Análise e Desenvolvimento de Sistemas na Anhanguera Educacional.
+- Possuo conhecimento intermediário em Python e conhecimento básico em Banco de Dados.
 - Colocarei alguns projetos pessoais aqui no GitHub.
